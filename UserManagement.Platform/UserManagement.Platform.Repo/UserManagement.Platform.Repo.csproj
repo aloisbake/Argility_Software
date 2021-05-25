@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UserManagement.Platform.Contracts\UserManagement.Platform.Contracts.csproj" />
+    <ProjectReference Include="..\UserManagement.Platform.Dal\UserManagement.Platform.Dal.csproj" />
+  </ItemGroup>
+
+</Project>

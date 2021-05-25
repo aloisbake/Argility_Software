@@ -1,0 +1,12 @@
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Dal\bin\Debug\netcoreapp3.1\UserManagement.Platform.Contracts.dll
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Dal\obj\Debug\netcoreapp3.1\UserManagement.Platform.Dal.csprojAssemblyReference.cache
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Dal\obj\Debug\netcoreapp3.1\UserManagement.Platform.Dal.AssemblyInfoInputs.cache
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Dal\obj\Debug\netcoreapp3.1\UserManagement.Platform.Dal.AssemblyInfo.cs
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Dal\bin\Debug\netcoreapp3.1\UserManagement.Platform.Dal.deps.json
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Dal\bin\Debug\netcoreapp3.1\UserManagement.Platform.Dal.dll
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Dal\bin\Debug\netcoreapp3.1\UserManagement.Platform.Dal.pdb
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Dal\bin\Debug\netcoreapp3.1\UserManagement.Platform.Contracts.pdb
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Dal\obj\Debug\netcoreapp3.1\UserManagement.Platform.Dal.csproj.CoreCompileInputs.cache
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Dal\obj\Debug\netcoreapp3.1\UserManagement.Platform.Dal.csproj.CopyComplete
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Dal\obj\Debug\netcoreapp3.1\UserManagement.Platform.Dal.dll
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Dal\obj\Debug\netcoreapp3.1\UserManagement.Platform.Dal.pdb

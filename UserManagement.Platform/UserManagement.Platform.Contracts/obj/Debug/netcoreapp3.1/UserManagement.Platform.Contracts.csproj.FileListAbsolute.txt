@@ -1,0 +1,8 @@
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Contracts\bin\Debug\netcoreapp3.1\UserManagement.Platform.Contracts.deps.json
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Contracts\bin\Debug\netcoreapp3.1\UserManagement.Platform.Contracts.dll
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Contracts\bin\Debug\netcoreapp3.1\UserManagement.Platform.Contracts.pdb
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Contracts\obj\Debug\netcoreapp3.1\UserManagement.Platform.Contracts.AssemblyInfoInputs.cache
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Contracts\obj\Debug\netcoreapp3.1\UserManagement.Platform.Contracts.AssemblyInfo.cs
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Contracts\obj\Debug\netcoreapp3.1\UserManagement.Platform.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Contracts\obj\Debug\netcoreapp3.1\UserManagement.Platform.Contracts.dll
+C:\Users\alois\source\repos\ArgilitySoftware\UserManagement.Platform\UserManagement.Platform.Contracts\obj\Debug\netcoreapp3.1\UserManagement.Platform.Contracts.pdb
